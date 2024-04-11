@@ -35,6 +35,7 @@ dotnet build  Lab05_Ex02
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="960" alt="5 2 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-05/assets/144870609/5aa6c2d6-437f-4988-b2ca-695d0606a66e">
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -47,4 +48,4 @@ dotnet run --project Lab05_Ex02
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
-
+โปรแกรม ERROR เพราะไม่ได้กำหนดการเข้าถึง Field ต้องกำหนดเป็น Public ก่อนถึงจะสามารถรันได้
