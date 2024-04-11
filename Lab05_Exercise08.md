@@ -47,8 +47,9 @@ dotnet run --project Lab05_Ex08
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="5 8 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-05/assets/144870609/595bc243-6232-4ca0-a51a-261789decc5e">
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+โปรแกรมจะแสดงผล 2+3=5, 2*3=6 จาก Code ใช้ Class Calculator เป็น static class เพื่อสร้าง method add และ multiply ที่สามารถเรียกใช้ได้
 
