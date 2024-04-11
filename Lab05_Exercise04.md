@@ -42,8 +42,10 @@ dotnet run --project Lab05_Ex04
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="5 4 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-05/assets/144870609/b3ff53e7-112e-460e-898d-efc4c75b35bb">
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+   โปรแกรมจะแสดงผล F1 = 0 F2 = null ตามชนิด Type เป็น lmplicit fields initialization เพราะไม่ได้กำหนดค่า
+   โปรแกรมจะแสดงผล F3 = 100 F4 = ASDF ตามชนิด Type เป็น Expliceit field initialization เพราะกำหนดค่า
 
