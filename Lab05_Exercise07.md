@@ -49,7 +49,8 @@ dotnet run --project Lab05_Ex07
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="960" alt="5 7 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-05/assets/144870609/1f82ed20-c3d6-47d8-83d1-24d30053db3a">
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+โปรแกรมจะแสดงผล 2+3 = 5,2*3 = 6 มีการเรียกใช้ method จาก add และ multiply และ return ค่ากลับไปให้ int a, int b
 
